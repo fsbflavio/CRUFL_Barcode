@@ -90,7 +90,6 @@
   <ItemGroup>
     <None Include="Code_2_5.ttf" />
     <None Include="CRUFL_Barcode.snk" />
-    <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
