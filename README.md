@@ -1,4 +1,5 @@
 ﻿# Gerador de Código de Barras Intercalado 2/5 para Crystal Reports
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/fsbflavio/CRUFL_Barcode/blob/main/README.en.md)
 ## Biblioteca UFL para gerar código de barras Intercalado 2/5 padrão FEBRABAN (usado em boletos bancários) para Crystal Reports
 
 ## Sobre

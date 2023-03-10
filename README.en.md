@@ -1,4 +1,5 @@
 ﻿# Interleaved 2/5 Barcode Generator for Crystal Reports
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/fsbflavio/CRUFL_Barcode/blob/main/README.md)
 ## UFL Library to Generate FEBRABAN Standard Interleaved 2/5 Barcodes (Used in Bank Slips) for Crystal Reports
 
 ## About
