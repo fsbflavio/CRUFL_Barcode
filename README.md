@@ -24,14 +24,14 @@ Mudar a fonte da string de saída para a fonte Code 2/5 Interleaved (pode ser us
 1-Compilar a dll especificamente para x86, (AnyCpu não funciona).   
 2-Salvar a Dll em:   
 	'C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86   
-3-Acessar a pasta onde a Dll foi salva e Registra-la usando o RegAsm:
+3-Acessar a pasta onde a Dll foi salva e Registra-la usando o RegAsm:   
 	"C:\Windows\Microsoft.NET\Framework\v4.0.30319\RegAsm.exe" /codebase CRUFL_Barcode.dll
 
 ### Para uso no Crystal Reports 64 bits:
-1-Compilar a dll especificamente para x64, (AnyCpu não funciona).
-2-Salvar a Dll em:
-	'C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win64_x64
-3-Acessar a pasta onde a Dll foi salva e Registra-la usando o RegAsm:
+1-Compilar a dll especificamente para x64, (AnyCpu não funciona).   
+2-Salvar a Dll em:   
+	'C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win64_x64   
+3-Acessar a pasta onde a Dll foi salva e Registra-la usando o RegAsm:   
 	"C:\Windows\Microsoft.NET\Framework64\v4.0.30319\RegAsm.exe" /codebase CRUFL_Barcode.dll
 
 OBS: O caminho para salvar a dll pode variar dependendo do produto SAP Crystal Reports
